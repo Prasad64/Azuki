@@ -68,7 +68,7 @@ nav ul li{
 }
 .icons i{
     cursor: pointer;
-    padding: 0 30px;
+    
 }
 
 #myProgressBar{
@@ -117,7 +117,3 @@ nav ul li{
     font-family: 'Varela Round', sans-serif;
 }
 
-.songInfo img{
-    opacity: 0;
-    transition: opacity 1s ease-in;
-}
