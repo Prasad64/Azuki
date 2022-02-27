@@ -8,6 +8,12 @@ body{
 h1 h2{
     align-items: center;
 }
+h4{
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+    align-items: center;
+    justify-content: center;
+}
 h3{
     padding-top: 10px;
     font-family: 'Courier New', Courier, monospace;
@@ -15,6 +21,10 @@ h3{
 h2{
     padding-top: 10px;
     font-family: 'Courier New', Courier, monospace;
+}
+h4 img{
+    padding-left: 10px;
+    height: 30px;
 }
 h1 img{
     padding-left: 10px;
