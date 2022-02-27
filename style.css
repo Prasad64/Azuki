@@ -5,6 +5,17 @@ body{
 
 }
 
+h1 h2{
+    align-items: center;
+}
+h3{
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+h2{
+    padding-top: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
 *{
     margin: 0;
     padding: 0;
