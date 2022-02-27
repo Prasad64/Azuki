@@ -114,7 +114,7 @@ nav ul li{
 .songItem{
     height: 50px;
     display: flex;
-    background-color: white;
+    background-color: rgb(231, 156, 156);
     color: black;
     width: 100%;
     margin: 12px 0;
