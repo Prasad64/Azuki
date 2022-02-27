@@ -16,6 +16,14 @@ h2{
     padding-top: 10px;
     font-family: 'Courier New', Courier, monospace;
 }
+h1 img{
+    padding-left: 10px;
+    height: 50px;
+}
+h2 img{
+    padding-left: 10px;
+    height: 40px;
+}
 *{
     margin: 0;
     padding: 0;
